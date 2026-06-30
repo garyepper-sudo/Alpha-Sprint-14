@@ -527,7 +527,7 @@ function suggestNextEvidence(beliefs: BeliefObject[], evidence: EvidenceObject[]
   if (!ids.has('partners-distribution')) missing.push('Partner pipeline, channel contribution, and enterprise deployment data');
   beliefs[0]?.externalDependencies.slice(0, 1).forEach((dependency) => missing.push(`Evidence that measures ${dependency.toLowerCase()}`));
   questions.slice(0, 1).forEach((q) => missing.push(`Evidence to answer: ${q}`));
-  return [...new Set(missing)].slice(0, 6);
+  return Array.from(new Set(missing)).slice(0, 6);
 }
 
 function scoreUnderstanding(evidence: EvidenceObject[], entities: Entity[], relationships: Relationship[], beliefs: BeliefObject[], contradictions: unknown[], sources: number) {

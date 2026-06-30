@@ -513,7 +513,7 @@ function generateOpenQuestions(beliefs: BeliefObject[], evidence: EvidenceObject
   contradictions.forEach((contradiction) => questions.push(`Is this tension explained by timing, segmentation, or a real strategic trade-off: ${contradiction.title}?`));
   if (relationships.length) questions.push(`Is the relationship between ${relationships[0].from} and ${relationships[0].to} causal, reinforcing, or merely correlated?`);
   if (evidence.length < 10) questions.push('What second source would test whether the current belief survives independent evidence?');
-  return [...new Set(questions)].slice(0, 7);
+  return Array.from(new Set(questions)).slice(0, 7);
 }
 
 function suggestNextEvidence(beliefs: BeliefObject[], evidence: EvidenceObject[], questions: string[]) {

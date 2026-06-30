@@ -1,0 +1,3 @@
+Company: Netflix
+Source: Public-company demo packet, Q1 2026 earnings transcript notes
+Management described the 2026 framework as 12 percent to 14 percent revenue growth, 31.5 percent operating margin, and roughly doubling the advertising business to about $3 billion. Netflix ended 2025 with more than 325 million paid members and said its audience is approaching one billion people. Commentary emphasizes engagement, retention, entertainment breadth, pricing, and the transition from subscriber reporting toward revenue and profit metrics.

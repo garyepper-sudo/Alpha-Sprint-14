@@ -1,0 +1,3 @@
+Company: NVIDIA
+Source: GTC Keynote Notes
+Themes: AI factories, Blackwell, CUDA, networking, robotics, Omniverse, simulation, enterprise workflows. The keynote language reframes AI infrastructure as production capacity. Compute, networking, software, and simulation are presented as connected parts of a broader AI infrastructure platform.

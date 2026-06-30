@@ -1,0 +1,3 @@
+Company: Netflix
+Source: Public-company demo packet, Q4 2025 shareholder letter notes
+Netflix reported 2025 revenue of about $45 billion, up 16 percent year over year, and operating margin of 29.5 percent, up from 26.7 percent in 2024. Management said advertising revenue grew by more than 2.5 times versus 2024 to more than $1.5 billion. Leadership emphasized healthy revenue growth, expanding operating margin, free cash flow, member value, engagement, pricing, and advertising monetization.

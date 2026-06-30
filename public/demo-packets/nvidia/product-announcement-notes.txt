@@ -1,0 +1,3 @@
+Company: NVIDIA
+Source: Product Announcement Notes
+Themes: product systems, partners, reference architectures, networking, inference, software, deployment. Product announcements reinforce a layered platform: chips, networking, systems, software, and ecosystem partners. This strengthens the thesis that deployment architecture matters as much as component demand.

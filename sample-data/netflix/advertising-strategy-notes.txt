@@ -1,0 +1,8 @@
+Company: Netflix
+Source: Public-company demo packet, advertising strategy notes
+Advertising appears to be shifting from a new initiative into a material growth lever. Public commentary connects the ad-supported plan to lower entry pricing, incremental member acquisition, better monetization, and long-term revenue diversification. Open questions remain around ad-tier ARPU, churn, inventory fill rates, targeting quality, ad load, and whether advertising growth expands the market or cannibalizes higher-priced subscription plans.
+Potential contradiction: Netflix is reducing emphasis on quarterly subscriber reporting while the public narrative still relies on member scale and engagement to justify advertising and pricing power.
+Potential contradiction: Advertising revenue is growing quickly, but the packet does not yet prove whether ad-tier economics are accretive after considering ARPU mix, churn, and product complexity.
+Potential relationship: Better content breadth may increase engagement, which may support retention, pricing, and advertising inventory.
+Potential relationship: Operating margin expansion depends on revenue growth, content efficiency, monetization, and disciplined expense growth.
+Next best evidence: ad-tier cohort economics, engagement by plan type, content ROI by category, churn by region, and future earnings transcripts.

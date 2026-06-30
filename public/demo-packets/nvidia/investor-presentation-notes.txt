@@ -1,0 +1,3 @@
+Company: NVIDIA
+Source: Investor Presentation Notes
+Themes: full-stack platform, CUDA, software, developer ecosystem, data center systems, enterprise AI, robotics, simulation. The investor narrative emphasizes a platform rather than a single product cycle. Hardware demand is reinforced by software tooling, developer adoption, and system-level deployment architecture.

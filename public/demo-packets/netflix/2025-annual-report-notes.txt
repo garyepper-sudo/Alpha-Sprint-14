@@ -1,0 +1,3 @@
+Company: Netflix
+Source: Public-company demo packet, annual report notes
+Netflix describes its business as a global entertainment service focused on films, series, games, live experiences, and advertising-supported plans. Annual report notes emphasize revenue growth, operating margin expansion, content investment, technology, competition for consumer attention, and foreign exchange exposure. Risk language repeatedly references competition, content performance, regulatory change, intellectual property, data privacy, payments, and the need to maintain member engagement. The annual report also frames revenue and operating margin as central performance measures.

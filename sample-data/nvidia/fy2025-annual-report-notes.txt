@@ -1,0 +1,3 @@
+Company: NVIDIA
+Source: FY2025 Annual Report Notes
+Themes: accelerated computing, data center growth, AI infrastructure demand, supply constraints, export controls, customer concentration, competition, software ecosystem. The company describes demand for accelerated computing and AI workloads as a central driver of its business. Risk factors include product transitions, supply allocation, geopolitical restrictions, and dependence on large customers and partners.

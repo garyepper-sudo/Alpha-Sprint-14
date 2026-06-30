@@ -1,0 +1,3 @@
+Company: NVIDIA
+Source: Competitive and Risk Notes
+Themes: hyperscaler capital expenditures, export controls, supply chain, competition, customer concentration, cyclicality. The platform thesis is strong, but durability depends on external infrastructure spending, regulation, supply allocation, customer concentration, and the pace of competitive alternatives.

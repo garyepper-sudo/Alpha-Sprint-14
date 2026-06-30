@@ -1,0 +1,3 @@
+Company: NVIDIA
+Source: Q1 FY2026 Earnings Call Notes
+Themes: data center demand, Blackwell transition, networking, inference, systems, hyperscaler capex, supply. Management commentary connects GPU demand with networking and full systems. AI infrastructure demand appears to be shifting from individual accelerators toward integrated systems needed to train and deploy AI at scale.

@@ -1,0 +1,3 @@
+Company: Netflix
+Source: Public-company demo packet, Q1 2026 shareholder letter notes
+Netflix reported Q1 2026 revenue growth of 16 percent year over year and operating income growth of 18 percent. Management maintained its 2026 outlook for revenue of $50.7 billion to $51.7 billion and operating margin of 31.5 percent. The letter describes growth focus areas including improving the core entertainment offering, increasing monetization, and expanding the advertising business.

@@ -347,7 +347,7 @@ function extractRelationships(evidence: EvidenceObject[]): Relationship[] {
     }
   }
 
-  const relationships: Relationship[] = [...pairs.entries()].map(([key, items], index) => {
+  const relationships: Relationship[] = Array.from(pairs.entries()).map(([key, items], index) => {
     const [aId, bId] = key.split('|');
     const a = topicById(aId)!;
     const b = topicById(bId)!;

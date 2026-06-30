@@ -320,7 +320,7 @@ function extractEntities(text: string, evidence: EvidenceObject[]): Entity[] {
     const mentions = evidence.filter((item) => item.topics.includes(topic.id)).length;
     if (mentions) counts.set(topic.label, (counts.get(topic.label) ?? 0) + mentions);
   }
-  return [...counts.entries()]
+  return Array.from(counts.entries())
     .map(([name, mentions]) => ({ name, mentions, type: inferEntityType(name), salience: clamp(mentions * 10, 10, 100) }))
     .sort((a, b) => b.salience - a.salience)
     .slice(0, 50);
